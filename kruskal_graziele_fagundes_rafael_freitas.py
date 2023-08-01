@@ -1,3 +1,5 @@
+# Graziele Fagundes e Rafael Freitas - M1
+
 class Aresta:
     def __init__(self, origem, destino, peso):
         self.origem = origem

@@ -1,3 +1,5 @@
+# Graziele Fagundes e Rafael Freitas - M1
+
 # Definição da classe Grafo que representa um grafo não direcionado com matriz de adjacência.
 class Grafo:
     def __init__(self, vertices):

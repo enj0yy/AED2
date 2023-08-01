@@ -1,3 +1,5 @@
+# Graziele Fagundes e Rafael Freitas - M1
+
 class Grafo:
     def __init__(self, vertices):
         self.vertices = vertices
